@@ -17,7 +17,7 @@ Confidence intervals measure the degree of uncertainty or certainty in a samplin
 A confidence interval is a range of values, bounded above and below the statistic's mean, that likely would contain an unknown population parameter. Confidence level refers to the percentage of probability that the confidence interval would contain the true population parameter when you draw a random sample many times
 
  
-# What is the fifference between Correlation and Regression?
+# What is the difference between Correlation and Regression?
 Use correlation for a quick and simple summary of the direction and strength of the relationship between two or more numeric variables. Use regression when you’re looking to predict, optimize, or explain a number response between the variables (how x influences y).
 
 ![imagen](https://user-images.githubusercontent.com/70054118/116776444-baaaab80-aa68-11eb-8939-504246d6db17.png)
