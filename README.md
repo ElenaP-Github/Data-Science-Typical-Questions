@@ -1,6 +1,6 @@
-# Interview-preparation
+### Interview-preparation
 
-What is the p-value?
+# What is the p-value?
 
 A p-value is a number describing how likely it is that your data would have occurred by random chance
 The level of statistical significance is often expressed as a p-value between 0 and 1. The smaller the p-value, the stronger the evidence that you should reject the null hypothesis.
@@ -12,13 +12,15 @@ However, if the p-value is below your threshold of significance (typically p < 0
 Instead, we may state our results “provide support for” or “give evidence for” our research hypothesis (as there is still a slight probability that the results occurred by chance and the null hypothesis was correct – e.g. less than 5%).
   
   
-What is the confidence interval?
+# What is the confidence interval?
 Confidence intervals measure the degree of uncertainty or certainty in a sampling method. They can take any number of probability limits, with the most common being a 95% or 99% confidence level.
 A confidence interval is a range of values, bounded above and below the statistic's mean, that likely would contain an unknown population parameter. Confidence level refers to the percentage of probability that the confidence interval would contain the true population parameter when you draw a random sample many times
 
  
-Difference between Correlation and Regression?
+# What is the fifference between Correlation and Regression?
 Use correlation for a quick and simple summary of the direction and strength of the relationship between two or more numeric variables. Use regression when you’re looking to predict, optimize, or explain a number response between the variables (how x influences y).
 
 ![imagen](https://user-images.githubusercontent.com/70054118/116776444-baaaab80-aa68-11eb-8939-504246d6db17.png)
+
+
 [Image Source](https://learn.g2.com/correlation-vs-regression)
