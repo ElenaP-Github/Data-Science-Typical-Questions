@@ -11,6 +11,8 @@ However, if the p-value is below your threshold of significance (typically p < 0
 •	A p-value higher than 0.05 (> 0.05) is not statistically significant and indicates strong evidence for the null hypothesis. This means we retain the null hypothesis and reject the alternative hypothesis. You should note that you cannot accept the null hypothesis, we can only reject the null or fail to reject it.
 Instead, we may state our results “provide support for” or “give evidence for” our research hypothesis (as there is still a slight probability that the results occurred by chance and the null hypothesis was correct – e.g. less than 5%).
   
+  ![imagen](https://user-images.githubusercontent.com/70054118/116776602-78359e80-aa69-11eb-8474-3cac474d31f1.png)
+  
   
 # What is the confidence interval?
 Confidence intervals measure the degree of uncertainty or certainty in a sampling method. They can take any number of probability limits, with the most common being a 95% or 99% confidence level.
