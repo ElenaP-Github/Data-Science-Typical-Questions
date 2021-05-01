@@ -18,7 +18,11 @@ Instead, we may state our results “provide support for” or “give evidence 
 Confidence intervals measure the degree of uncertainty or certainty in a sampling method. They can take any number of probability limits, with the most common being a 95% or 99% confidence level.
 A confidence interval is a range of values, bounded above and below the statistic's mean, that likely would contain an unknown population parameter. Confidence level refers to the percentage of probability that the confidence interval would contain the true population parameter when you draw a random sample many times
 
- 
+
+ ![imagen](https://user-images.githubusercontent.com/70054118/116776623-a0bd9880-aa69-11eb-9cea-b80cdec551af.png)
+
+
+
 # What is the difference between Correlation and Regression?
 Use correlation for a quick and simple summary of the direction and strength of the relationship between two or more numeric variables. Use regression when you’re looking to predict, optimize, or explain a number response between the variables (how x influences y).
 
